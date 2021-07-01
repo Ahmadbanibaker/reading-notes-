@@ -20,6 +20,7 @@
 ### The expression x = 7 is an example of the first type. This expression uses the = operator to assign the value seven to the variable x. The expression itself evaluates to seven.
 
 
+<<<<<<< HEAD
 - ## while statement
 ### A while statement executes its statements as long as a specified condition evaluates to true.If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop.
 
@@ -31,5 +32,6 @@
 
 
 ![for vs while loop](https://i.pinimg.com/originals/c2/56/8f/c2568f7e6bc7af034e5f1c42d3747e64.png)
+
 
 
