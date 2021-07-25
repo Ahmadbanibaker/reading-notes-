@@ -53,7 +53,7 @@ any subsequent paragraphs.
 ![Paragraphs](https://espirian.co.uk/wp-content/uploads/2019/11/code_sample.png)
 * Bold : By enclosing words in the tags 
 <b> and </b> we can make 
-characters appear bold.
+characters appear bold .
 * Italic : By enclosing words in the tags 
 <i> and </i> we can make 
 characters appear italic.
