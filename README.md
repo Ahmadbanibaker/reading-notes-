@@ -27,7 +27,7 @@ read 3     | [class 03](https://ahmadbanibaker.github.io/reading-notes-/class%20
  read 9    | [class 09](https://ahmadbanibaker.github.io/reading-notes-/class%2009) 
  read 10   | [class 10](https://ahmadbanibaker.github.io/reading-notes-/class%2010)  
  read 11   | [class 11](https://ahmadbanibaker.github.io/reading-notes-/class%2011)
- read 12   | [class 12]() 
+ read 12   | [class 12](https://ahmadbanibaker.github.io/reading-notes-/class%2012) 
  read 13   | [class 13]()
  read 14   | [class 14]()
 read 15    | [class 15]() 
