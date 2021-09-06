@@ -39,7 +39,7 @@ read 15    | [class 15](https://ahmadbanibaker.github.io/reading-notes-/class%20
  topic     | link
 -----------| -------------
  read 1    | [class 01](https://ahmadbanibaker.github.io/reading-notes-/read%20301%20(1))
- read 2    | [class 02]()
+ read 2    | [class 02](https://ahmadbanibaker.github.io/reading-notes-/read%20301%20(2))
  read 3    | [class 03]()
  read 4    | [class 04]()
  read 5    | [class 05]()
