@@ -49,7 +49,7 @@ read 15    | [class 15](https://ahmadbanibaker.github.io/reading-notes-/class%20
  read 9    | [class 09](https://ahmadbanibaker.github.io/reading-notes-/raed%20301%20(9))
  read 10   | [class 10](https://ahmadbanibaker.github.io/reading-notes-/read%20301%20(10))  
  read 11   | [class 11](https://ahmadbanibaker.github.io/reading-notes-/read%20301%20(11))
- read 12   | [class 12]()
+ read 12   | [class 12](https://ahmadbanibaker.github.io/reading-notes-/read%20301%20(12))
  read 13   | [class 13]()
  read 14   | [class 14]()
  read 15   | [class 15]()
